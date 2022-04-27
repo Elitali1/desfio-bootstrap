@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color: red;
+}
+.carousel-indicators li{
+    width: 30x;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+}
+.carousel-control-prev-icon{
+    background-color: red;
+}
+.carousel-control-next-icon{
+    background-color: red;
+}
+.container-fluid{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.container-fluid1{
+    background-color: black;
+    height: 200px;
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+.facebook{
+    font-size: 20px;
+    color: blue;
+}
+.whatsapp{
+    font-size: 20px;
+    color: blue;
+    
+}
+.instagram{
+    font-size: 20px;
+    color: blue;
+    
+}
+.youtube{
+    font-size: 20px;
+    color: blue;
+    
+}
